@@ -1,7 +1,7 @@
 /* import { nanoid } from 'nanoid'; */
 /* import uuid from 'react-uuid'; */
 import React, { useState } from 'react'; //, { useState } 
-import Calculator from './Calculator';
+/* import Calculator from './Calculator'; */
 /* import UserParent from './UserParent'; */
 /* import Employee from './Employee';
 import Product from './Product';
